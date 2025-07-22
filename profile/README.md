@@ -6,13 +6,9 @@
 
 Flicker Engine is a modern C++ game engine designed on the principles of **minimalism, modularity, and ease of use**. It provides a flexible, data-driven framework for creating a wide range of games, from 2D side-scrollers to 3D first-person experiences.
 
----
-
 ## Core Philosophy
 
 The engine is built on a foundation of **clear separation of concerns**. Each major component (renderer, physics, ECS, etc.) is developed and compiled into a distinct static library. The main editor executable links these modules together, creating a clean, scalable, and maintainable architecture. This modularity allows developers to use only the parts of the engine they need and simplifies the process of extending or replacing core systems.
-
----
 
 ## Features
 
@@ -60,8 +56,6 @@ The engine is composed of several independent modules, each with a specific resp
 ### Virtual Reality (`Flicker-VR`)
 -   Planned support for VR hardware and interaction via the **OpenXR** standard.
 
----
-
 ## Supported Game Perspectives
 
 The engine architecture is being built to support a wide variety of game genres out-of-the-box:
@@ -70,8 +64,6 @@ The engine architecture is being built to support a wide variety of game genres 
 -   2.5D Side-Scroller (3D world, 2D gameplay)
 -   2D Top-Down
 -   2D Side-Scroller
-
----
 
 ## Getting Started
 
