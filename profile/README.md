@@ -76,17 +76,17 @@ The engine architecture is being built to support a wide variety of game genres 
 The Flicker Engine is split across multiple repositories. Clone them all into the same parent directory.
 
 ```bash
-git clone [https://github.com/Flicker-Engine/Flicker-Editor.git](https://github.com/Flicker-Engine/Flicker-Editor.git)
-git clone [https://github.com/Flicker-Engine/Flicker-Renderer-Interface.git](https://github.com/Flicker-Engine/Flicker-Renderer-Interface.git)
-git clone [https://github.com/Flicker-Engine/Flicker-ECS.git](https://github.com/Flicker-Engine/Flicker-ECS.git)
-git clone [https://github.com/Flicker-Engine/Flicker-Physics.git](https://github.com/Flicker-Engine/Flicker-Physics.git)
-git clone [https://github.com/Flicker-Engine/Flicker-Utilities.git](https://github.com/Flicker-Engine/Flicker-Utilities.git)
-git clone [https://github.com/Flicker-Engine/Flicker-GUI.git](https://github.com/Flicker-Engine/Flicker-GUI.git)
-git clone [https://github.com/Flicker-Engine/Flicker-API-Native.git](https://github.com/Flicker-Engine/Flicker-API-Native.git)
-git clone [https://github.com/Flicker-Engine/Flicker-API-Csharp.git](https://github.com/Flicker-Engine/Flicker-API-Csharp.git)
-git clone [https://github.com/Flicker-Engine/Flicker-VR.git](https://github.com/Flicker-Engine/Flicker-VR.git)
-git clone [https://github.com/Flicker-Engine/Flicker-OpenGL-Backend.git](https://github.com/Flicker-Engine/Flicker-OpenGL-Backend.git)
-git clone [https://github.com/Flicker-Engine/Flicker-Vulkan-Backend.git](https://github.com/Flicker-Engine/Flicker-Vulkan-Backend.git)
+git clone https://github.com/Flicker-Engine/Flicker-Editor.git
+git clone https://github.com/Flicker-Engine/Flicker-Renderer-Interface.git
+git clone https://github.com/Flicker-Engine/Flicker-ECS.git
+git clone https://github.com/Flicker-Engine/Flicker-Physics.git
+git clone https://github.com/Flicker-Engine/Flicker-Utilities.git
+git clone https://github.com/Flicker-Engine/Flicker-GUI.git
+git clone https://github.com/Flicker-Engine/Flicker-API-Native.git
+git clone https://github.com/Flicker-Engine/Flicker-API-Csharp.git
+git clone https://github.com/Flicker-Engine/Flicker-VR.git
+git clone https://github.com/Flicker-Engine/Flicker-OpenGL-Backend.git
+git clone https://github.com/Flicker-Engine/Flicker-Vulkan-Backend.git
 ```
 
 ## Building and Running
